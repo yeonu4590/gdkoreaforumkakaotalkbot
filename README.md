@@ -11,7 +11,7 @@ This project is a KakaoTalk bot that fetches and responds with information about
 ## Example
 2024.09.29
 ```bash
-순위 : 1
+!순위 1
 ```
 ```bash
 레벨 이름: Tidal Wave
