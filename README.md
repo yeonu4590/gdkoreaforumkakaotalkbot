@@ -1,4 +1,4 @@
-# KakaoTalk Bot for Korean Forum Demon List
+# KakaoTalk Bot for Geometry Dash Korea Forum
 
 This project is a KakaoTalk bot that fetches and responds with information about demon levels from the Korean Forum Demon List API. Users can query the bot with commands to get details about specific demon levels based on their ranks.
 
