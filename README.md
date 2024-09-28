@@ -36,9 +36,3 @@ cd gdkoreaforumkakaotalkbot
 ### How to run
 - 1. Install Node.js
   2. Type on the terminal : node main.js
-
-<aside>
-  💡
-  EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE  
-</aside>
-    
